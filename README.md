@@ -34,6 +34,12 @@ Os dados utilizados neste projeto são públicos e disponíveis na competição 
 Você pode acessá-los e aprender mais sobre suas variáveis no link abaixo:
 🔗 [Titanic - Machine Learning from Disaster (Kaggle)](https://www.kaggle.com/competitions/titanic)
 
+# 🚀 Acesse o App
+
+Você pode acessar o app online clicando no link abaixo:
+
+[Simulador Titanic Streamlit](https://ml-titanic.streamlit.app/)
+
 # 👨‍💻 Sobre o autor
 
 Olá! Meu nome é Gabriel Ferrando e sou um iniciante no mundo da Ciência de Dados.
