@@ -22,6 +22,7 @@ Este projeto combina ciência de dados, aprendizado de máquina e visualização
   *  Gifs animados e textos temáticos
   *  Análise explicativa do resultado com contexto histórico
   *  Desenvolvido com Streamlit (Python)
+
   
  [image](https://github.com/user-attachments/assets/34d16cf8-4086-4933-9b19-57628b6cc10c)
  
