@@ -2,6 +2,10 @@
 
 Este aplicativo interativo foi desenvolvido para simular suas chances de sobrevivência no naufrágo do RMS Titanic, ocorrido em 1912. Com base em dados reais e modelagem preditiva, ele transporta você para uma das tragédias mais marcantes da história. 
 
+ [image](https://github.com/user-attachments/assets/34d16cf8-4086-4933-9b19-57628b6cc10c)
+ 
+ ![image](https://github.com/user-attachments/assets/ee6f74e2-3e75-4297-9f44-5b201c969e6f)
+
 # 📌 Objetivo
 
 Este projeto combina ciência de dados, aprendizado de máquina e visualização interativa para criar uma experiência envolvente. Ao preencher um questionário simples, você descobre se teria sobrevivido, segundo os padrões e informações extraídas do conjunto de dados original do Titanic. 
@@ -23,10 +27,6 @@ Este projeto combina ciência de dados, aprendizado de máquina e visualização
   *  Análise explicativa do resultado com contexto histórico
   *  Desenvolvido com Streamlit (Python)
     
- [image](https://github.com/user-attachments/assets/34d16cf8-4086-4933-9b19-57628b6cc10c)
- 
- ![image](https://github.com/user-attachments/assets/ee6f74e2-3e75-4297-9f44-5b201c969e6f)
-
 # 📊 Dataset
 
 Os dados utilizados neste projeto são públicos e disponíveis na competição Titanic da  [Kaggle](https://www.kaggle.com/competitions/titanic).
