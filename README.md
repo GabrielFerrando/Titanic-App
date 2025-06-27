@@ -24,11 +24,14 @@ Este projeto combina ciência de dados, aprendizado de máquina e visualização
   *  Desenvolvido com Streamlit (Python)
 
 # 📊 Dataset
+
 Os dados utilizados neste projeto são públicos e disponíveis na competição Titanic da  [Kaggle](https://www.kaggle.com/competitions/titanic).
+
 Você pode acessá-los e aprender mais sobre suas variáveis no link abaixo:
 🔗 [Titanic - Machine Learning from Disaster (Kaggle)](https://www.kaggle.com/competitions/titanic)
 
 # 👨‍💻 Sobre o autor
+
 Olá! Meu nome é Gabriel Ferrando e sou um iniciante no mundo da Ciência de Dados.
 Este é um dos meus primeiros projetos práticos e foi desenvolvido com muito cuidado e aprendizado.
 Atualmente, estou explorando Machine Learning, Python e Streamlit.
